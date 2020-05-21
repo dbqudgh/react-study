@@ -5,10 +5,10 @@
 
 <h4>mountion</h4>
 <pre><code>
-constructor()컴포넌트 생성시: 중요
-static getDerivedStateFromProps()컴포넌트 스크린 표시 실행
+constructor()컴포넌트 생성시
+static getDerivedStateFromProps()컴포넌트 스크린 보여질때 실행
 render()
-componentDidMount()render 실행 이후 실행: 중요
+componentDidMount()render 실행 이후 실행
 </code></pre>
 
 
