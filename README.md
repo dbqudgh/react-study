@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/60841247/82722379-36e92a80-9d01-11ea-9a5f-181e5d1a2659.png)
+
+
 <h1> 무비 클론 :https://dbqudgh.github.io/react-study/<h1>
   
 
